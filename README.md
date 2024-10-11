@@ -20,5 +20,9 @@
 ### Fotografía de Google:
 ![Origen de Google](https://github.com/AlejandroSanchezSMX2/SMX2-M8UF1A1-HistoriaWeb-1998-Google-Alejandro/blob/main/google.jpg "Origen de Google")
 
+### Webgrafía:
+[Wikipedia](https://es.wikipedia.org/wiki/Google "Wikipedia")
+[Platzi](https://platzi.com/blog/historia-de-google/ "Platzi")
+
 
 
