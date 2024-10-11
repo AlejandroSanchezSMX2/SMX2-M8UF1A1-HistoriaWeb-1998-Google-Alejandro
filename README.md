@@ -9,4 +9,14 @@
 ### ¿D'on va provenir el nom de Google?
 #### -Al 1997, els fundadors van decidir canviar el nom a Google inspirats pel terme matemàtic «gúgol» que es referia al número 10 elevat a la potència de 100.
 
+### Dates clau de Google:
+|Any |Sucés clau |
+|:------------:|:------------:|
+|1996 |Larry Page y Sergey Brin inician su colaboración en un buscador llamado BackRub |
+|1998 |Se da origen al nombre de Google y se abren las primeras oficinas |
+|1999 |consiguen inversión de 25 millones de dólares y se abre la sede actual Googleplex |
+|2001 |Google aparece disponible en 26 idiomas |
+
+
+
 
