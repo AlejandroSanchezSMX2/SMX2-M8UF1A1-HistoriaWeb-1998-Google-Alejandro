@@ -14,9 +14,11 @@
 |:------------:|------------|
 |1996 |Larry Page y Sergey Brin inician su colaboración en un buscador llamado BackRub |
 |1998 |Se da origen al nombre de Google y se abren las primeras oficinas |
-|1999 |consiguen inversión de 25 millones de dólares y se abre la sede actual Googleplex |
+|1999 |Consiguen inversión de 25 millones de dólares y se abre la sede actual Googleplex |
 |2001 |Google aparece disponible en 26 idiomas |
 
+### Fotografía de Google:
+![Origen de Google](https://github.com/AlejandroSanchezSMX2/SMX2-M8UF1A1-HistoriaWeb-1998-Google-Alejandro/blob/main/google.jpg "Origen de Google")
 
 
 
